@@ -20,6 +20,7 @@ find_even_values = []
         element_index += 1
       else
     end
+    end
     row_index += 1
 end
 
