@@ -24,4 +24,4 @@ find_even_values = []
     row_index += 1
 end
 
-find_even_values
+p find_even_values
